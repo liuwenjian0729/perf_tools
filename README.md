@@ -12,5 +12,6 @@ cd perf_tools
 # clone FlameGraph repo
 git clone https://github.com/brendangregg/FlameGraph.git
 
-# python bcc_parser.py --dir <log_dir>
+# use
+python bcc_parser.py --dir <log_dir>
 ```
