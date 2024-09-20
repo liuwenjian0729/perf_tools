@@ -1,4 +1,4 @@
-<img width="294" alt="image" src="https://github.com/user-attachments/assets/5bb2ac5c-2614-44a8-a1d2-f6e55d83588e"># perf_tools
+# perf_tools
 
 ## bcc_parser
 convert trace file collect by bcc profile to svg
